@@ -1,0 +1,5 @@
+# vagrant data
+.vagrant
+
+#Vagrant File
+Vagrantfile
